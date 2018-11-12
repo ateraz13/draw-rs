@@ -1,7 +1,8 @@
 [package]
 name = "draw-rs"
 version = "0.1.0"
-authors = ["aurum_syntax <mipsmartin@gmail.com>"]
+authors = ["self-unaware <mipsmartin@gmail.com>"]
+license = ["MIT"]
 
 [dependencies]
 image = "*"
